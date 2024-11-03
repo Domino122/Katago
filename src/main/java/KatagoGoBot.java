@@ -7,5 +7,6 @@
 public class KatagoGoBot {
     public static void main(String[] args) {
         System.out.println("围棋AI");
+        System.out.println("zzy");
     }
 }
